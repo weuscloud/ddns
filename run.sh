@@ -1,0 +1,2 @@
+node main
+./run.sh
